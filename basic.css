@@ -1,0 +1,97 @@
+.background-color{
+background-color: 	#FFFAFA;
+
+}
+.text-index > p{
+font-family: Georgia;
+font-size: 25px;
+text-align: left;
+padding-right: 50px;
+padding-left: 50px;
+}
+.text-profile{
+  font-family: Helvetica;
+  font-size: 20px;
+
+}
+
+.text-profileImg{
+  font-family: Times;
+  font-size: 17px;
+  font-style: italic;
+}
+
+
+.nav-padding{
+
+  padding-top: 5px;
+}
+
+
+.padding{
+
+  padding-top: 60px;
+  padding-bottom: 40px;
+  padding-right: 30px;
+  padding-left: 30px;
+
+
+}
+.padding-profileImg {
+  padding-left: 50px;
+}
+
+.box {
+  float: left;
+  width: 50%;
+  padding: 80px;
+}
+
+.tab {
+  margin-left: 40px;
+}
+
+.article-text{
+  font-family: Helvetica;
+  font-size: 14px;
+
+}
+.article-text > img{
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      width: 500px;
+
+}
+.figure-text{
+  font-family: Helvetica;
+  font-size: 10px;
+  font-style: italic;
+  text-align: center;
+
+}
+
+.text-interests{
+  font-family: Georgia
+  font-size: 23px;
+  text-align: left;
+  font-style: italic;
+  padding-right: 100px;
+  padding-left: 100px;
+
+
+}
+
+.center{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+
+#publications{
+  font-family: Helvetica;
+  font-size: 25px;
+  font-style: italic;
+}
