@@ -1,3 +1,5 @@
+//Not used in Code
+
 var express =('express');
 
 
@@ -21,11 +23,6 @@ app.get('/Team', function(req,res){
 
 })
 
-app.get('/Faculty', function(req,res){
-
-  re.send('this is Faculty page')
-
-})
 
 app.get('/Interest', function(req,res){
 
